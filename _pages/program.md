@@ -1,6 +1,6 @@
 ---
-permalink: /programm/
-title: "Eval4SD - Programm"
+permalink: /program/
+title: "Eval4SD - Program"
 layout: single
 author_profile: false
 header:
