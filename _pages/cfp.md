@@ -44,7 +44,7 @@ We invite submissions on (but not limited to) the following topic areas:
 | Camera-ready deadline | TBD |
 | Workshop date | September 2026 |
 
-*All deadlines are 11:59 PM CET.*
+*All deadlines are 11:59 PM CEST.*
 
 ## Submission Link
 
